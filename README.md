@@ -35,3 +35,12 @@ Abra este caderno temático no NotebookLM e explore:
 - Os **resumos** para revisar conceitos rapidamente.
 - O **glossário** para entender termos essenciais.
 - Os **prompts reutilizáveis** para gerar novas explicações e revisões com IA.
+
+## 📘 NotebookLM
+
+Este projeto também está disponível no NotebookLM, incluindo:
+- Slides temáticos
+- Cartões de estudo
+- Vídeo explicativo
+
+👉 Acesse aqui: [Meu NotebookLM](https://notebooklm.google.com/notebook/efd7dc8e-4857-4aa2-abb8-c0188d41dc6c)
